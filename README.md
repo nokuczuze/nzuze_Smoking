@@ -59,7 +59,7 @@ Our presentation can be found [here](https://github.com/nokuczuze/nzuze_Smoking/
 
 ## Memo
 
-A link to the code and how we created our graphics in our memo can be found [here](memo/memo.md).
+A link to the code and how we created our graphics in our memo can be found [here](https://github.com/nokuczuze/nzuze_Smoking/blob/main/memo.Rmd).
 
 ## Data
 
