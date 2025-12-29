@@ -55,7 +55,7 @@ While youth smoking in Androscoggin County has declined substantially since 2009
 
 ## Handout
 
-Our presentation can be found [here](handout/handout.pdf). You can update the filename and extension of your handout.
+Our presentation can be found [here](https://github.com/nokuczuze/nzuze_Smoking/blob/main/handout.pdf). You can update the filename and extension of your handout.
 
 ## Memo
 
