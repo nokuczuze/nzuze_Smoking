@@ -1,5 +1,6 @@
 Youth Smoking Trends in Androscoggin County
 ================
+By Noku, Liz, Charlie
 
 ## Summary
 
